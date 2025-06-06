@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+
+#main ul{
+    display:flex;
+}
+
+li{
+    margin: 5px;
+}
